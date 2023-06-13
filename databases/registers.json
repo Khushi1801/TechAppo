@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "6433ee8efcbb1073c410ed0b"
+  },
+  "fname": "Khushi",
+  "lname": "Bhabhor",
+  "email": "khushibhabhor18@gmail.com",
+  "mobile": {
+    "$numberLong": "7359487116"
+  },
+  "dob": {
+    "$date": {
+      "$numberLong": "1008633600000"
+    }
+  },
+  "pwd": "1",
+  "cpwd": "1",
+  "role": "student",
+  "gender": "female",
+  "enroll_no": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6433eec5fcbb1073c410ed0f"
+  },
+  "fname": "Krupa",
+  "lname": "Gamit",
+  "email": "krupagamit1202@gmail.com",
+  "mobile": {
+    "$numberLong": "9374884811"
+  },
+  "dob": {
+    "$date": {
+      "$numberLong": "1013472000000"
+    }
+  },
+  "pwd": "2",
+  "cpwd": "2",
+  "role": "student",
+  "gender": "female",
+  "enroll_no": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6434ef0bd48a0e0b3ab81ff1"
+  },
+  "fname": "Project",
+  "lname": "Co-ordinator",
+  "email": "pc@gmail.com",
+  "mobile": {
+    "$numberLong": "7359487661"
+  },
+  "dob": {
+    "$date": {
+      "$numberLong": "44582400000"
+    }
+  },
+  "pwd": "pc@1",
+  "cpwd": "pc@1",
+  "role": "pc",
+  "gender": "male",
+  "enroll_no": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64365897b26e045f7b3b2d0c"
+  },
+  "fname": "Faculty ",
+  "lname": "1",
+  "email": "faculty1@gmail.com",
+  "mobile": {
+    "$numberLong": "19374884822"
+  },
+  "dob": {
+    "$date": {
+      "$numberLong": "634867200000"
+    }
+  },
+  "pwd": "fac@1",
+  "cpwd": "fac@1",
+  "role": "faculty",
+  "gender": "female",
+  "enroll_no": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6436596ab26e045f7b3b2d21"
+  },
+  "fname": "Faculty",
+  "lname": "2",
+  "email": "faculty2@gmail.com",
+  "mobile": {
+    "$numberLong": "19374884475"
+  },
+  "dob": {
+    "$date": {
+      "$numberLong": "688176000000"
+    }
+  },
+  "pwd": "fac@1",
+  "cpwd": "fac@1",
+  "role": "faculty",
+  "gender": "male",
+  "enroll_no": 5,
+  "__v": 0
+}]

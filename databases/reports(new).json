@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "643d7f5ffbc5595c36c6e276"
+  },
+  "requested_date": {
+    "$date": {
+      "$numberLong": "1681756200000"
+    }
+  },
+  "group_id": 13,
+  "start_date": {
+    "$date": {
+      "$numberLong": "1681084800000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1681689600000"
+    }
+  },
+  "report": "1681751903012-.jpg",
+  "rep_ver1": "1681751947939-.jpg",
+  "rep_ver2": "1681752692628-.jpg",
+  "rep_ver3": "1681752910831-.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f8018a96dbfd50b69f981"
+  },
+  "requested_date": {
+    "$date": {
+      "$numberLong": "1681929000000"
+    }
+  },
+  "group_id": 14,
+  "week": "Week 3",
+  "report": "1681883160765-.jpg",
+  "rep_ver1": "1681883160765-.jpg",
+  "rep_ver2": "",
+  "rep_ver3": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f8038ba723e6c21ae057e"
+  },
+  "requested_date": {
+    "$date": {
+      "$numberLong": "1681929000000"
+    }
+  },
+  "group_id": 25,
+  "week": "Week 9",
+  "report": "1681883192050-.jpg",
+  "rep_ver1": "",
+  "rep_ver2": "",
+  "rep_ver3": "",
+  "__v": 0
+}]

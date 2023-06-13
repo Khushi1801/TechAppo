@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6433cf8c3c794a0dd5f7abe1"
+  },
+  "en": 1,
+  "announcement": "Presentation on 1st April",
+  "date_of_announcement": {
+    "$date": {
+      "$numberLong": "1681151400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6433cf993c794a0dd5f7abe5"
+  },
+  "en": 2,
+  "announcement": "Presentation on 8th April.",
+  "date_of_announcement": {
+    "$date": {
+      "$numberLong": "1681151400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6433cfa73c794a0dd5f7abe9"
+  },
+  "en": 3,
+  "announcement": "Report Submission on 20th April.",
+  "date_of_announcement": {
+    "$date": {
+      "$numberLong": "1681151400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643abdf797677b4a5f0ede7b"
+  },
+  "en": 4,
+  "announcement": "Presentation on 22 April 2023",
+  "date_of_announcement": {
+    "$date": {
+      "$numberLong": "1681583400000"
+    }
+  },
+  "__v": 0
+}]

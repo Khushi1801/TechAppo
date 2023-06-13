@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "643d1653cf5d133cf143ce11"
+  },
+  "stu_id": 56,
+  "stu_name": "khushi",
+  "project_title": "ac",
+  "project_definition": "ab",
+  "project_description": "aa",
+  "techology_used": "PYTHON",
+  "entry_date": {
+    "$date": {
+      "$numberLong": "1681724955999"
+    }
+  },
+  "group_id": 1,
+  "group_type": "Group",
+  "company_name": "ei",
+  "company_address": "aklapuri",
+  "industrial_guide": "ak",
+  "offer_letter": "1681725011391-.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d1653cf5d133cf143ce13"
+  },
+  "stu_id": 55,
+  "stu_name": "amit",
+  "project_title": "ac",
+  "project_definition": "ab",
+  "project_description": "aa",
+  "techology_used": "PYTHON",
+  "entry_date": {
+    "$date": {
+      "$numberLong": "1681724955999"
+    }
+  },
+  "group_id": 1,
+  "group_type": "Group",
+  "company_name": "ei",
+  "company_address": "aklapuri",
+  "industrial_guide": "ak",
+  "offer_letter": "1681725011391-.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d168ecf5d133cf143ce1b"
+  },
+  "stu_id": 1,
+  "stu_name": "khushi",
+  "project_title": "techappo",
+  "project_definition": "",
+  "project_description": "",
+  "techology_used": "",
+  "entry_date": {
+    "$date": {
+      "$numberLong": "1681724955999"
+    }
+  },
+  "group_id": 2,
+  "group_type": "Group",
+  "company_name": "ei",
+  "company_address": "",
+  "industrial_guide": "",
+  "offer_letter": "1681725070448-.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d168ecf5d133cf143ce1d"
+  },
+  "stu_id": 2,
+  "stu_name": "krupa",
+  "project_title": "techappo",
+  "project_definition": "",
+  "project_description": "",
+  "techology_used": "",
+  "entry_date": {
+    "$date": {
+      "$numberLong": "1681724955999"
+    }
+  },
+  "group_id": 2,
+  "group_type": "Group",
+  "company_name": "ei",
+  "company_address": "",
+  "industrial_guide": "",
+  "offer_letter": "1681725070448-.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d168ecf5d133cf143ce1f"
+  },
+  "stu_id": 3,
+  "stu_name": "aemi",
+  "project_title": "techappo",
+  "project_definition": "",
+  "project_description": "",
+  "techology_used": "",
+  "entry_date": {
+    "$date": {
+      "$numberLong": "1681724955999"
+    }
+  },
+  "group_id": 2,
+  "group_type": "Group",
+  "company_name": "ei",
+  "company_address": "",
+  "industrial_guide": "",
+  "offer_letter": "1681725070448-.jpg",
+  "__v": 0
+}]

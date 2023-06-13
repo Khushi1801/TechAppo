@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "640edffd541eddada70c91ac"
+  },
+  "grp_id": 56,
+  "guide1": "One",
+  "guide2": "Two",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6410052f8890e58e5ab5a291"
+  },
+  "grp_id": 55,
+  "guide1": "One",
+  "guide2": "Two",
+  "__v": 0
+}]

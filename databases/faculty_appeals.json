@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "641396b42f1df183a0bd897e"
+  },
+  "requested_date": {
+    "$date": {
+      "$numberLong": "1679077800000"
+    }
+  },
+  "fid": 6,
+  "f_name": "khushi",
+  "appeal": "complain on krupa",
+  "fappeal_status": 1,
+  "__v": 0,
+  "date_of_reply": {
+    "$date": {
+      "$numberLong": "1679682600000"
+    }
+  },
+  "reply": "okay"
+},{
+  "_id": {
+    "$oid": "64182687dac368cdcb83ba5c"
+  },
+  "requested_date": {
+    "$date": {
+      "$numberLong": "1679337000000"
+    }
+  },
+  "fid": 6,
+  "f_name": "",
+  "appeal": "Student complain",
+  "fappeal_status": 0,
+  "__v": 0,
+  "date_of_reply": {
+    "$date": {
+      "$numberLong": "1679682600000"
+    }
+  },
+  "reply": ""
+}]
